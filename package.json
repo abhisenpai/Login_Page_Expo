@@ -20,7 +20,7 @@
     "expo-constants": "6.0.0",
     "expo-font": "^6.0.1",
     "expo-web-browser": "6.0.0",
-    "firebase": "^6.3.4",
+    "firebase": "^10.9.0",
     "native-base": "^2.13.4",
     "react": "16.8.3",
     "react-dom": "^16.8.6",
